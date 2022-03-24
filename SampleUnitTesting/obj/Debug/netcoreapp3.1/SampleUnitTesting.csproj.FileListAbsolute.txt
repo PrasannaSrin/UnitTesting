@@ -1,0 +1,14 @@
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.exe
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.deps.json
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.runtimeconfig.json
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.runtimeconfig.dev.json
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.dll
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\bin\Debug\netcoreapp3.1\SampleUnitTesting.pdb
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.csproj.AssemblyReference.cache
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.AssemblyInfoInputs.cache
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.AssemblyInfo.cs
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.dll
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.pdb
+C:\Users\prasannas\source\repos\SampleUnitTesting\SampleUnitTesting\obj\Debug\netcoreapp3.1\SampleUnitTesting.genruntimeconfig.cache
